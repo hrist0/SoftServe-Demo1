@@ -1,0 +1,6 @@
+c:\users\turbo-x\documents\visual studio 2013\Projects\SoftServe.FindLeader\SoftServe.FindLeader\bin\Debug\SoftServe.FindLeader.exe.config
+c:\users\turbo-x\documents\visual studio 2013\Projects\SoftServe.FindLeader\SoftServe.FindLeader\obj\Debug\SoftServe.FindLeader.csprojResolveAssemblyReference.cache
+c:\users\turbo-x\documents\visual studio 2013\Projects\SoftServe.FindLeader\SoftServe.FindLeader\bin\Debug\SoftServe.FindLeader.exe
+c:\users\turbo-x\documents\visual studio 2013\Projects\SoftServe.FindLeader\SoftServe.FindLeader\bin\Debug\SoftServe.FindLeader.pdb
+c:\users\turbo-x\documents\visual studio 2013\Projects\SoftServe.FindLeader\SoftServe.FindLeader\obj\Debug\SoftServe.FindLeader.exe
+c:\users\turbo-x\documents\visual studio 2013\Projects\SoftServe.FindLeader\SoftServe.FindLeader\obj\Debug\SoftServe.FindLeader.pdb
