@@ -41,7 +41,7 @@ namespace FindLeader
                     SplitInput(input, out firstMatch, out secondMatch);
                     // Step 1 check if the first name already exists in allEmployees
                     InsertLeader(allEmployees, firstMatch, secondMatch);
-                    // Step 2 check if the second name do not exists and create new Employee
+                    // Step 2 check if the second name doesn't exists and create new Employee
                     InsertEmployee(allEmployees, firstMatch, secondMatch);
                 }
             }
@@ -69,7 +69,7 @@ namespace FindLeader
         {
             if (!allEmployees.ContainsKey(firstMatch))
             {
-                // Step 1.1 If the second child do not exists we create it in allEmployees
+                // Step 1.1 If the second child doesn't exists we create it in allEmployees
                 Employee employeeChild = null;
                 if (!allEmployees.ContainsKey(secondMatch))
                 {
@@ -95,7 +95,7 @@ namespace FindLeader
                 {
                     employeeChild = allEmployees[secondMatch];
                 }
-                // If the second child do not exists we create it 
+                // If the second child doesn't exists we create it 
                 else
                 {
                     employeeChild = new Employee(secondMatch);
